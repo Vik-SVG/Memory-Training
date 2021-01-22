@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946769222560",
+    "project_id": "my-memory-9e9e1",
+    "storage_bucket": "my-memory-9e9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946769222560:android:c924efa90e13983bace2c5",
+        "android_client_info": {
+          "package_name": "com.vkpriesniakov.memorytraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946769222560-8cgte1rsl7la96h0vof5nfas13j9q9mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vkpriesniakov.memorytraining",
+            "certificate_hash": "7077b186f2884f822cfefb3be9b12c70178b2040"
+          }
+        },
+        {
+          "client_id": "946769222560-sef7jv5crf2ur4rt21s9qjgnekohrg4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1EaQbbAD3XvYvWhIZ6dWjPUIdSl2e-To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946769222560-sef7jv5crf2ur4rt21s9qjgnekohrg4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
